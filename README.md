@@ -17,3 +17,4 @@ https://www.cbf.com.br/selecao-brasileira/noticias/detalhes/selecao-masculina/2-
 Apresentar quem foi o famoso Pelé aos que não o conheceram na nova geração
 
 * prompts: Crie uma bibliografia contando quem foi Pelé e a sua dimensão Mundial
+* VIDEO CRIADO NO GEMINI NOTEBOOK*: https://youtu.be/8bxDO01GdKU
